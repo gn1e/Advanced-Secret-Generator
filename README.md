@@ -1,15 +1,5 @@
-# advanced-secret-generator
+# advanced secret gen
 
-To install dependencies:
+this could have been 5 lines of code... but i decided on making it advanced for fun :)
 
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.1.27. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+idc if you skid this!!! have fun!
