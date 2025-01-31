@@ -1,0 +1,16 @@
+{
+  "name": "advanced-secret-generator",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "pino": "^9.6.0",
+    "pino-pretty": "^13.0.0"
+  }
+}
